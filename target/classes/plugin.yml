@@ -1,6 +1,6 @@
 name: 2b2t-Disconnect
 main: Disconnect.Kick
-version: "0.0.0.3.4"
+version: "0.0.0.3.5"
 api: ["1.0.0"]
 
 load: POSTWORLD
