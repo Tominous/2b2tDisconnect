@@ -1,0 +1,18 @@
+name: 2b2t-Disconnect
+main: Disconnect.Kick
+version: "0.0.0.3.4"
+api: ["1.0.0"]
+
+load: POSTWORLD
+author: coke
+description: 2b2t PE's disconnect reason.
+website: https://github.com/SumWum
+commands:
+  dc:
+    description: null
+    usage: "null"
+    permission: dc.command.dc
+permissions:
+  dc.command.dc:
+    description: "info"
+    default: true
